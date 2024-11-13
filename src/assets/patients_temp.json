@@ -1,0 +1,396 @@
+[
+    {
+    "hosId": "001",
+    "result": {
+        "medicalRecCurent": [
+            {
+                "listDircName": "基本信息",
+                "listName": "患者信息",
+                "listContent": "姓名: 张三, 年龄: 58, 性别: 男, 身高: 172cm, 体重: 85kg, BMI: 28.7, 婚姻状况: 已婚, 职业: 上班族"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "主诉",
+                "listContent": "反复胸痛半年，活动后加重，休息后缓解"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "现病史",
+                "listContent": "患者自述半年前开始出现胸痛，主要在胸骨后区域，呈压榨样，持续时间约5-10分钟，休息后可缓解。近期胸痛发作频率增加，伴有轻微气短，夜间有时出现心悸。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "既往史",
+                "listContent": "高血压史10年，服用降压药但血压控制欠佳，否认高脂血症和糖尿病。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "家族史",
+                "listContent": "父亲60岁因冠心病去世，母亲70岁患有高血压。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "社会史",
+                "listContent": "吸烟20年，每天10支，偶尔饮酒，缺乏规律运动。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "用药史",
+                "listContent": "氯吡格雷（75 mg每日1次），阿司匹林（100 mg每日1次），美托洛尔（25 mg每日2次）。"
+            },
+            {
+                "listDircName": "体格检查",
+                "listName": "详情",
+                "listContent": "血压: 145/95 mmHg, 心率: 78 bpm, 呼吸频率: 18次/分, 血氧饱和度: 97%, 心音正常, 无明显杂音, 双下肢无水肿, 颈静脉无怒张。"
+            }
+        ],
+        "testInfo": [
+            {
+                "testRptName": "血糖",
+                "testRsVal": "5.8 mmol/L",
+                "testNormalVal": "3.9-6.1 mmol/L"
+            },
+            {
+                "testRptName": "总胆固醇",
+                "testRsVal": "6.2 mmol/L",
+                "testNormalVal": "<5.2 mmol/L"
+            },
+            {
+                "testRptName": "低密度脂蛋白",
+                "testRsVal": "4.1 mmol/L",
+                "testNormalVal": "<3.4 mmol/L"
+            },
+            {
+                "testRptName": "高密度脂蛋白",
+                "testRsVal": "1.2 mmol/L",
+                "testNormalVal": ">1.0 mmol/L"
+            },
+            {
+                "testRptName": "甘油三酯",
+                "testRsVal": "2.3 mmol/L",
+                "testNormalVal": "<1.7 mmol/L"
+            },
+            {
+                "testRptName": "肌钙蛋白",
+                "testRsVal": "0.02 ng/mL",
+                "testNormalVal": "<0.1 ng/mL"
+            },
+            {
+                "testRptName": "B型钠尿肽（BNP）",
+                "testRsVal": "85 pg/mL",
+                "testNormalVal": "<100 pg/mL"
+            }
+        ],
+        "checkInfo": [
+            {
+                "chkFindings": "窦性心律，轻度ST段下移",
+                "chkResult": "心电图正常窦性心律，ST段轻度下移",
+                "clinicDiag": "高血压, 冠状动脉粥样硬化性心脏病"
+            },
+            {
+                "chkFindings": "左室射血分数约58%，左心房轻度扩大",
+                "chkResult": "心脏超声显示左室射血分数正常，但左心房轻度扩大",
+                "clinicDiag": "冠状动脉粥样硬化性心脏病"
+            },
+            {
+                "chkFindings": "冠状动脉CT血管造影显示：左前降支近端出现约60%的管腔狭窄，右冠状动脉中段约70%狭窄",
+                "chkResult": "冠状动脉CT提示冠状动脉多处狭窄，左前降支近端狭窄约60%，右冠状动脉中段狭窄约70%",
+                "clinicDiag": "冠状动脉粥样硬化性心脏病"
+            }
+        ]
+    }
+},
+    {
+    "hosId": "002",
+    "result": {
+        "medicalRecCurent": [
+            {
+                "listDircName": "基本信息",
+                "listName": "患者信息",
+                "listContent": "姓名: 李四, 年龄: 65, 性别: 女, 身高: 158cm, 体重: 70kg, BMI: 28.1, 婚姻状况: 丧偶, 职业: 退休"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "主诉",
+                "listContent": "劳累后胸闷伴气短3个月，近1周症状加重"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "现病史",
+                "listContent": "患者3个月前开始出现劳累后胸闷、气短，休息后缓解。近1周来即使在轻微活动后也会出现症状，伴有心悸和出汗。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "既往史",
+                "listContent": "高血压病史15年，血压控制稳定；糖尿病病史5年，口服药物控制；无其他重大慢性病史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "家族史",
+                "listContent": "父母均有高血压史，无冠心病病史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "社会史",
+                "listContent": "无吸烟史，不饮酒，日常散步，缺乏强度运动。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "用药史",
+                "listContent": "硝苯地平（30 mg每日1次），二甲双胍（500 mg每日2次）。"
+            },
+            {
+                "listDircName": "体格检查",
+                "listName": "详情",
+                "listContent": "血压: 130/85 mmHg, 心率: 82 bpm, 呼吸频率: 20次/分, 血氧饱和度: 96%, 心音正常，无杂音，双下肢无水肿，颈静脉无怒张。"
+            }
+        ],
+        "testInfo": [
+            {
+                "testRptName": "血糖",
+                "testRsVal": "6.5 mmol/L",
+                "testNormalVal": "3.9-6.1 mmol/L"
+            },
+            {
+                "testRptName": "总胆固醇",
+                "testRsVal": "5.9 mmol/L",
+                "testNormalVal": "<5.2 mmol/L"
+            },
+            {
+                "testRptName": "低密度脂蛋白",
+                "testRsVal": "3.8 mmol/L",
+                "testNormalVal": "<3.4 mmol/L"
+            },
+            {
+                "testRptName": "高密度脂蛋白",
+                "testRsVal": "1.0 mmol/L",
+                "testNormalVal": ">1.0 mmol/L"
+            },
+            {
+                "testRptName": "甘油三酯",
+                "testRsVal": "1.9 mmol/L",
+                "testNormalVal": "<1.7 mmol/L"
+            },
+            {
+                "testRptName": "肌钙蛋白",
+                "testRsVal": "0.03 ng/mL",
+                "testNormalVal": "<0.1 ng/mL"
+            },
+            {
+                "testRptName": "B型钠尿肽（BNP）",
+                "testRsVal": "120 pg/mL",
+                "testNormalVal": "<100 pg/mL"
+            }
+        ],
+        "checkInfo": [
+            {
+                "chkFindings": "窦性心律，左室肥厚表现",
+                "chkResult": "心电图显示窦性心律，左室肥厚",
+                "clinicDiag": "冠状动脉粥样硬化性心脏病, 高血压, 2型糖尿病"
+            },
+            {
+                "chkFindings": "左室射血分数约55%，左心室肥厚，左心房增大",
+                "chkResult": "心脏超声提示左室射血分数正常，但存在左心室肥厚和左心房增大",
+                "clinicDiag": "冠状动脉粥样硬化性心脏病"
+            },
+            {
+                "chkFindings": "冠状动脉CT血管造影显示：左主干轻度钙化，无明显狭窄，右冠状动脉近端约50%狭窄",
+                "chkResult": "冠状动脉CT显示左主干轻度钙化，无明显狭窄，但右冠状动脉近端约50%狭窄",
+                "clinicDiag": "冠状动脉粥样硬化性心脏病"
+            }
+        ]
+    }
+},
+    {
+    "hosId": "003",
+    "result": {
+        "medicalRecCurent": [
+            {
+                "listDircName": "基本信息",
+                "listName": "患者信息",
+                "listContent": "姓名: 王五, 年龄: 72, 性别: 男, 身高: 168cm, 体重: 75kg, BMI: 26.6, 婚姻状况: 已婚, 职业: 退休"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "主诉",
+                "listContent": "呼吸困难及乏力半年，近1周夜间症状加重"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "现病史",
+                "listContent": "患者半年以来出现逐渐加重的呼吸困难和乏力，尤其在活动后明显。近1周夜间呼吸困难显著，并伴有双下肢水肿，偶尔心悸。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "既往史",
+                "listContent": "高血压20年，血压控制不佳，有冠心病病史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "家族史",
+                "listContent": "父亲有冠心病病史，母亲有高血压病史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "社会史",
+                "listContent": "吸烟30年，每天一包，已戒烟2年，偶尔饮酒，日常活动减少，缺乏规律运动。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "用药史",
+                "listContent": "依那普利（10 mg每日1次），呋塞米（40 mg每日1次），阿司匹林（100 mg每日1次）。"
+            },
+            {
+                "listDircName": "体格检查",
+                "listName": "详情",
+                "listContent": "血压: 150/90 mmHg, 心率: 85 bpm, 呼吸频率: 22次/分, 血氧饱和度: 92%, 心音低钝，心尖部可闻及第三心音（疑似奔马律），双肺底湿啰音，双下肢水肿明显，颈静脉怒张。"
+            }
+        ],
+        "testInfo": [
+            {
+                "testRptName": "血糖",
+                "testRsVal": "5.5 mmol/L",
+                "testNormalVal": "3.9-6.1 mmol/L"
+            },
+            {
+                "testRptName": "总胆固醇",
+                "testRsVal": "5.2 mmol/L",
+                "testNormalVal": "<5.2 mmol/L"
+            },
+            {
+                "testRptName": "低密度脂蛋白",
+                "testRsVal": "3.5 mmol/L",
+                "testNormalVal": "<3.4 mmol/L"
+            },
+            {
+                "testRptName": "B型钠尿肽（BNP）",
+                "testRsVal": "500 pg/mL",
+                "testNormalVal": "<100 pg/mL"
+            },
+            {
+                "testRptName": "肌钙蛋白",
+                "testRsVal": "0.01 ng/mL",
+                "testNormalVal": "<0.1 ng/mL"
+            },
+            {
+                "testRptName": "血清肌酐",
+                "testRsVal": "1.1 mg/dL",
+                "testNormalVal": "0.7-1.2 mg/dL"
+            }
+        ],
+        "checkInfo": [
+            {
+                "chkFindings": "窦性心律，左室肥厚，ST段下移",
+                "chkResult": "心电图显示窦性心律，左室肥厚，ST段下移",
+                "clinicDiag": "慢性收缩性心力衰竭, 高血压, 冠心病"
+            },
+            {
+                "chkFindings": "左室射血分数约35%，左心室扩大，轻度二尖瓣反流",
+                "chkResult": "心脏超声提示左心室显著扩大，射血分数降低至35%，伴轻度二尖瓣反流",
+                "clinicDiag": "慢性收缩性心力衰竭"
+            },
+            {
+                "chkFindings": "心影扩大，双侧肺门血管影增宽，肺野底部充血",
+                "chkResult": "胸部X线提示心影增大，心胸比达0.65，肺野底部充血，右侧少量胸腔积液",
+                "clinicDiag": "慢性收缩性心力衰竭"
+            }
+        ]
+    }
+},
+    {
+    "hosId": "004",
+    "result": {
+        "medicalRecCurent": [
+            {
+                "listDircName": "基本信息",
+                "listName": "患者信息",
+                "listContent": "姓名: 赵六, 年龄: 68, 性别: 女, 身高: 160cm, 体重: 65kg, BMI: 25.4, 婚姻状况: 丧偶, 职业: 退休"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "主诉",
+                "listContent": "活动后胸闷气短半年，夜间症状加重"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "现病史",
+                "listContent": "患者6个月前出现胸闷和气短，尤其在活动后明显。最近几周夜间气短加重，平卧时有憋气现象，需要多垫枕头睡觉。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "既往史",
+                "listContent": "高血压病史15年，血压控制一般；2型糖尿病病史10年，口服药物控制。无明确冠心病诊断史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "家族史",
+                "listContent": "父亲有冠心病病史，母亲有糖尿病病史。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "社会史",
+                "listContent": "无吸烟史，不饮酒，日常活动较少。"
+            },
+            {
+                "listDircName": "病史",
+                "listName": "用药史",
+                "listContent": "缬沙坦（80 mg每日1次），呋塞米（20 mg每日1次），二甲双胍（500 mg每日2次）。"
+            },
+            {
+                "listDircName": "体格检查",
+                "listName": "详情",
+                "listContent": "血压: 140/85 mmHg, 心率: 90 bpm, 呼吸频率: 24次/分, 血氧饱和度: 94%, 心音低沉，心尖区闻及第三心音，双肺底湿啰音，轻度水肿。"
+            }
+        ],
+        "testInfo": [
+            {
+                "testRptName": "血糖",
+                "testRsVal": "7.2 mmol/L",
+                "testNormalVal": "3.9-6.1 mmol/L"
+            },
+            {
+                "testRptName": "总胆固醇",
+                "testRsVal": "5.8 mmol/L",
+                "testNormalVal": "<5.2 mmol/L"
+            },
+            {
+                "testRptName": "低密度脂蛋白",
+                "testRsVal": "3.6 mmol/L",
+                "testNormalVal": "<3.4 mmol/L"
+            },
+            {
+                "testRptName": "B型钠尿肽（BNP）",
+                "testRsVal": "750 pg/mL",
+                "testNormalVal": "<100 pg/mL"
+            },
+            {
+                "testRptName": "肌钙蛋白",
+                "testRsVal": "0.01 ng/mL",
+                "testNormalVal": "<0.1 ng/mL"
+            },
+            {
+                "testRptName": "血清肌酐",
+                "testRsVal": "1.2 mg/dL",
+                "testNormalVal": "0.7-1.2 mg/dL"
+            }
+        ],
+        "checkInfo": [
+            {
+                "chkFindings": "窦性心律，心率增快，ST段轻度下移",
+                "chkResult": "心电图显示窦性心律，心率增快，ST段轻度下移",
+                "clinicDiag": "慢性收缩性心力衰竭, 高血压, 2型糖尿病"
+            },
+            {
+                "chkFindings": "左室射血分数约30%，左心室显著扩大，二尖瓣反流",
+                "chkResult": "心脏超声提示左心室显著扩大，射血分数降低至30%，伴二尖瓣反流",
+                "clinicDiag": "慢性收缩性心力衰竭"
+            },
+            {
+                "chkFindings": "心影扩大，双侧肺门充血，肺野下叶渗出",
+                "chkResult": "胸部X线显示心影增大，心胸比达0.68，双侧肺门充血，肺野下叶渗出，右侧少量胸腔积液",
+                "clinicDiag": "慢性收缩性心力衰竭"
+            }
+        ]
+    }
+}
+]
